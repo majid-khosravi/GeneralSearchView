@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextViewGeneral" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/iran_sans</item>
+        <item name="android:textColor">#212121</item>
+    </style>
+
+
+    <style name="ImageViewGeneral" parent="Widget.AppCompat.ImageButton">
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+
+
+</resources>
